@@ -66,7 +66,7 @@
 | [quran.com](https://quran.api-docs.io/v3/getting-started/introduction) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [sunnah.com](https://sunnah.api-docs.io/1.0/getting-started/introduction) | واجهة برمجية للمراجع العلمية في السنة النبوية | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 | [alquran.cloud](https://alquran.cloud/api) | واجهة برمجية للقرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
-| [api.quran-tafseer]([https://www.mp3quran.net/api/](http://api.quran-tafseer.com/en/docs/) | واجهة برمجية لتفسير القرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
+| [api.quran-tafseer](http://api.quran-tafseer.com/en/docs/) | واجهة برمجية لتفسير القرآن الكريم | :white_check_mark: | :negative_squared_cross_mark: | :white_check_mark: | :white_check_mark: |
 
 
 **[⬆ عودة للفهرس](#الفهرس)**
